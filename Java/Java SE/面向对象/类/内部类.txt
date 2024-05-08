@@ -1,0 +1,5 @@
+内部类
+
+![image-20230828194050503](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828194050503.png)
+
+![image-20230828194057037](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828194057037.png)

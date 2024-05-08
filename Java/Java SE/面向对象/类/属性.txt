@@ -1,0 +1,7 @@
+属性
+
+属性=成员变量=field=域、字段(具有默认初始化值、存在于堆空间)
+      
+      ![image-20230828194123439](C:\Users\16334\AppData\Roaming\Typora\typora-user-images\image-20230828194123439.png)
+
+![image-20230828194129466](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828194129466.png)

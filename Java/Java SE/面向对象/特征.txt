@@ -1,0 +1,41 @@
+特征
+
+特性：
+
+## 封装性
+
+​		![image-20230828195738600](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828195738600.png)
+​		 ![image-20230828195747118](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828195747118.png)
+
+## 继承性
+
+​	               ![image-20230828195756953](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828195756953.png) 
+
+​	               ![image-20230828195808619](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828195808619.png) 
+
+![image-20230828195924831](E:\E\Typora\notes\photo\image-20230828195924831.png)
+
+
+
+## 多态性
+
+![image-20230828200109809](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828200109809.png)
+
+​					5.多态性不适用于属性，只适用于方法
+
+​					![image-20230828200140046](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828200140046.png)
+
+​					![image-20230828200156919](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828200156919.png)
+
+// 创建抽象类的匿名子类
+Employee e = new Employee() {
+    @Override
+    public void work() {
+        System.out.println("hhh");
+    }
+};
+e.work();
+
+
+
+​		

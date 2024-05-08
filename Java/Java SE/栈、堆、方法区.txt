@@ -1,0 +1,14 @@
+栈、堆、方法区
+
+写JAVA类的时候要注意大小写一致，结尾记得加;号（同c语言）
+
+单行注释：//
+多行注释：/* */
+文档注释（java特有）：/**  */注释内容可以被JDK提供的工具Javadoc所解析，生成一套以网页文件形式体现的该程序的说明文档？？？？？？？
+
+![image-20230828200454143](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828200454143.png)
+
+![image-20230828200501317](E:\E\Typora\notes\photo\image-20230828200501317.png)
+
+![image-20230828200508482](https://happlay-docs.oss-cn-beijing.aliyuncs.com/docs/image-20230828200508482.png)
+
